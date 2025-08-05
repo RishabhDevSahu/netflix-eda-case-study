@@ -18,7 +18,7 @@ This project uses the following Python libraries:
 
 - **NumPy** 
 - **Pandas** 
-- **Matplotlib.pyplot** 
+- **Matplotlib** 
 - **Seaborn** 
 
 ---
@@ -101,5 +101,6 @@ This project uses the following Python libraries:
 > These actionable recommendations can help enhance Netflix's content strategy and continue to grow its global footprint, meeting both viewer demands and market opportunities.
 
 ---
+
 
 
