@@ -14,11 +14,12 @@ Netflix, as one of the leading video streaming platforms, aims to:
 
 This project uses the following core Python libraries for data analysis and visualization:
 
-```python
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+This project uses the following Python libraries:
+
+- **NumPy** 
+- **Pandas** 
+- **Matplotlib.pyplot** 
+- **Seaborn** 
 
 ---
 
@@ -100,4 +101,5 @@ import seaborn as sns
 > These actionable recommendations can help enhance Netflix's content strategy and continue to grow its global footprint, meeting both viewer demands and market opportunities.
 
 ---
+
 
