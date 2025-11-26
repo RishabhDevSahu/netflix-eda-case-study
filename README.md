@@ -1,4 +1,4 @@
-# 📊 Netflix Content Analysis — Data Exploration & Visualization
+# 📊 Netflix Content Analysis - Data Exploration & Visualization
 
 ## 🎯 Overview
 This project analyzes the Netflix dataset to uncover trends in content types, ratings, release patterns, regional contributions, and genre behavior.  
@@ -113,3 +113,4 @@ This project is open for educational and research purposes.
 ---
 
 ### ⭐ If you find this project useful, consider giving it a star!
+
